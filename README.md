@@ -1,0 +1,1 @@
+command /setEnchantLevel <player> <number>
